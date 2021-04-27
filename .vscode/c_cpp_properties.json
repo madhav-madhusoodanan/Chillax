@@ -3,9 +3,7 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/include/**",
-                "/usr/include/c++/9/**",
-                "/usr/lib/**"
+                "/usr/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/g++-9",
