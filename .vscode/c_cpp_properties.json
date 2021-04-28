@@ -3,7 +3,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "/usr/**"
+                "/usr/include/**",
+                "/usr/lib/x86_64-linux-gnu/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/g++-9",

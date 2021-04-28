@@ -1,0 +1,1 @@
+g++ src/base.cc -o base `pkg-config gtkmm-3.0 --cflags  --libs`
