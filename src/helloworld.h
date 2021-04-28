@@ -16,7 +16,7 @@ protected:
   void on_button_clicked();
 
   //Member widgets:
-  Gtk::Button m_button;
+  Gtk::Button* m_button;
 };
 
 #endif // GTKMM_EXAMPLE_HELLOWORLD_H
